@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pierwsza Aplikacja</string>
+    <string name="editText1">Proszę wpisać tekst</string>
+    <string name="button1">Wyślij</string>
+    <string name="title_activity_nowa_aktywnosc">NowaAktywnosc</string>
+    <string name="button2">Powrót</string>
+    <string name="switch1">WIELKIE_LITERY</string>
+    <string name="button3">Zamknij aplikację</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Przelicznik walut</string>
+    <string name="eurpln">eur</string>
+    <string name="usdpln">usd</string>
+    <string name="chfpln">chf</string>
+    <string name="ilePrzeliczyc">Wpisz liczbę do przeliczenia na pln, po czym wybierz walutę</string>
+    <string name="wynik">Po przeliczeniu</string>
+</resources>
