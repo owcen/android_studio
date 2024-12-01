@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:onClick="reakcjaParametr"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/reakcja"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="200dp"
+            android:onClick="reakcja"
+            android:layout_gravity="center"
+            android:text="@string/reakcja" />
+
+        <Button
+            android:id="@+id/reakcjaParametr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:onClick="reakcjaParametr"
+            android:text="@string/reakcjaParametr" />
+
+        <Button
+            android:id="@+id/strona"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:onClick="strona"
+            android:text="@string/strona" />
+
+        <Button
+            android:id="@+id/mapa"
+            android:layout_width="178dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:onClick="mapa"
+            android:text="@string/mapa" />
+
+        <Button
+            android:id="@+id/kalendarz"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:onClick="kalendarz"
+            android:text="@string/kalendarz" />
+
+        <Button
+            android:id="@+id/wlaczAparat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:onClick="wlaczAparat"
+            android:text="@string/wlaczAparat"
+            tools:onClick="wlaczAparat" />
+
+        <Button
+            android:id="@+id/reakcja3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:onClick="reakcja2"
+            android:text="@string/reakcja3" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
