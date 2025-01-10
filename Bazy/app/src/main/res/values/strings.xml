@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bazy</string>
+    <string name="preferences">PREFERENCES</string>
+    <string name="sqlite">SQLITE</string>
+    <string name="pamiecWew">PAMIĘĆ WEWNĘTRZNA</string>
+    <string name="room">ROOM</string>
+</resources>

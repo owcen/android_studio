@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BazyDanych</string>
+    <string name="dodajProdukt">Dodaj produkt</string>
+    <string name="usunProdukt">Usuń produkt</string>
+    <string name="wyswietlListe">Wyświetl listę</string>
+    <string name="nazwaProduktu">Nazwa produktu</string>
+    <string name="lista">Dodaj produkt</string>
+    <string name="powrot">Powrót</string>
+</resources>

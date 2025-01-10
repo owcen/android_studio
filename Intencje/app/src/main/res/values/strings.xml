@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Intencje</string>
+    <string name="reakcja">NOWA AKTYWNOŚĆ</string>
+    <string name="reakcjaParametr">Intencja z parametrem</string>
+    <string name="strona">Moja ulubiona strona internetowa</string>
+    <string name="mapa">Dojazd na uczelnie</string>
+    <string name="kalendarz">Otwórz kalendarz</string>
+    <string name="wlaczAparat">Włącz aparat</string>
+    <string name="mapa2">Nawiguj</string>
+    <string name="adres">Podaj adres pod który chcesz jechać</string>
+    <string name="reakcja3">Podaj adres do nawigacji</string>
+</resources>
